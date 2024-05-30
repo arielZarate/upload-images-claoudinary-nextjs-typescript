@@ -4,7 +4,7 @@ Proyecto de subida de imagens usando el framework de nextjs a cloudinary
 
 #### Tecnolologias y Dependencias
 
-- nextjs
+- nextjs 14
 - cloudinary
 - axios
 - taildwind css
